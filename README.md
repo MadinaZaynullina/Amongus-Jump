@@ -1,2 +1,2 @@
 # amongus-jump
- it is my first game in unity 
+ It is my first game made in Unity 
