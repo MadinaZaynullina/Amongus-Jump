@@ -1,2 +1,2 @@
 # amongus-jump
- It is my first game made in Unity 
+Игра по типу Doodle Jump с сохранением и сменой скинов
